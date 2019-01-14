@@ -1,0 +1,18 @@
+.body{
+    font-size: 125%;
+}
+.bs_example{
+     margin: 20px auto;
+     border: 1px solid black;
+     padding: 10px;
+ }
+.bs_example1{
+      margin: 20px auto;
+      padding: 10px;
+  }
+h1{
+    text-align: center;
+}
+.cent{
+    text-align: center;
+}
